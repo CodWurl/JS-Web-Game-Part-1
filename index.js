@@ -1,6 +1,7 @@
 function newImage (){
 let greenCharacter = document.createElement('img')    
 }
+newImage()
 
 // let greenCharacter = document.createElement('img')
 // greenCharacter.src = 'assets/green-character.gif'
