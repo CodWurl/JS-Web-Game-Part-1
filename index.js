@@ -1,6 +1,6 @@
 let greenCharacter = document.createElement('img')
 
-function newImage (){
+function greenCharacter (){
 console.log('img')
 }
 newImage()
