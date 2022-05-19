@@ -1,5 +1,7 @@
+let greenCharacter = document.createElement('img')
+
 function newImage (){
-let greenCharacter = document.createElement('img')    
+console.log('img')
 }
 newImage()
 
